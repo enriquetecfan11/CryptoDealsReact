@@ -15,8 +15,8 @@ export default function Currency({ cur }) {
         <img
           src={cur.iconUrl}
           alt={cur.name}
-          width="50"
-          height="50"
+          width="70"
+          height="70"
           className="img-fluid rounded"
         />
         <div className="card-body">

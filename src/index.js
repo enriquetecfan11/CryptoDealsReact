@@ -20,7 +20,8 @@ function App() {
 
   return (
     <div className="container text-center my-3 ">
-      <h3>Crypto Currency Deals</h3>
+      <h1 className="tittle">Crypto Currency Deals</h1>
+      <h3>App made by <a href="http://www.informatica404.com">Informatica 404</a></h3>
 
       <div className="grid">
         {Currencies.map((cur, index) => (
