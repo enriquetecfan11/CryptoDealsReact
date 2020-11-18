@@ -1,2 +1,2 @@
-# CryptoDealsReact
-Created with CodeSandbox
+# Crypto Coins Deals
+This a dashboard to view Cryptocurrency
