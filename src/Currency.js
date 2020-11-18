@@ -6,7 +6,7 @@ export default function Currency({ cur }) {
   };
 
   return (
-    <div className="card text-center bg-primary">
+    <div className="card text-center bg-info">
       <h5 className="card-title py-1">
         {cur.name}{" "}
         {cur.symbol}{" "}

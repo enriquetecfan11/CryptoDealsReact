@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="container text-center my-3 ">
-      <h3>Crypto Currency prices</h3>
+      <h3>Crypto Currency Deals</h3>
 
       <div className="grid">
         {Currencies.map((cur, index) => (

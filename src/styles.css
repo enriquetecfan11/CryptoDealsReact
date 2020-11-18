@@ -23,6 +23,14 @@ body {
 }
 
 .card{
+  font-family: 'Courier New', Courier, monospace;
   border:none !important;
   color: white;
+  font-size: 1rem;
+  line-height: 1.4;
+  letter-spacing: 0px;
+}
+
+.code{
+  color: black;
 }
